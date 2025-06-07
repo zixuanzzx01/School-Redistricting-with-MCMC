@@ -1,0 +1,2037 @@
+Job started at Fri May 30 05:39:46 CDT 2025
+Starting batch 1
+[INFO] Process 1/20 starting run #1
+Process 0: Starting MCMC process...
+Initial population per school:
+{'609730.0': 146343.0, '609738.0': 125909.0, '609734.0': 152595.0, '609724.0': 40646.0, '609704.0': 71901.0, '609719.0': 114853.0, '609740.0': 167112.0, '609723.0': 58176.0, '609727.0': 134890.0, '610587.0': 25896.0, '609705.0': 88248.0, '610384.0': 33096.0, '609735.0': 55467.0, '609764.0': 32301.0, '609715.0': 97044.0, '610323.0': 47672.0, '609709.0': 59414.0, '609710.0': 69393.0, '609682.0': 27829.0, '609716.0': 36630.0, '609722.0': 63001.0, '609746.0': 42825.0, '610592.0': 35506.0, '609759.0': 71375.0, '609695.0': 67804.0, '609713.0': 32403.0, '609733.0': 72300.0, '609739.0': 42037.0, '609674.0': 55612.0, '610518.0': 51340.0, '609708.0': 77057.0, '609729.0': 98776.0, '610389.0': 48138.0, '609732.0': 142522.0, '609725.0': 91190.0, '609762.0': 16635.0, '610543.0': 9770.0, '609741.0': 55189.0, '609718.0': 57635.0, '609698.0': 107161.0, '609712.0': 55699.0, '609761.0': 30282.0, '609728.0': 48678.0, '609691.0': 22038.0, '609756.0': 12663.0}
+Ideal population: 66512, Tolerance: +/- 40.0%
+Process 0: Generating a new Starting Partition...
+Process 0: New initial partition created.
+Process 0: Creating MarkovChain...
+Process 0: Running Chain 1...
+Process 0: Step 100
+Process 0: Step 200
+Process 0: Step 300
+Process 0: Step 400
+Process 0: Step 500
+Process 0: Step 600
+Process 0: Step 700
+Process 0: Step 800
+Process 0: Step 900
+Process 0: Step 1000
+Process 0: Chain finished.
+Process 0: Results saved to output/run_1.csv
+Process 0: Statistics saved to output/stats_1.csv
+Process 0: Done.
+All processes completed!
+Results are in the output/ directory
+Plots are in the results/ directory
+[INFO] Process 3/20 starting run #3
+Process 2: Starting MCMC process...
+Process 2: Generating a new Starting Partition...
+Process 2: New initial partition created.
+Process 2: Creating MarkovChain...
+Process 2: Running Chain 3...
+Process 2: Step 100
+Process 2: Step 200
+Process 2: Step 300
+Process 2: Step 400
+Process 2: Step 500
+Process 2: Step 600
+Process 2: Step 700
+Process 2: Step 800
+Process 2: Step 900
+Process 2: Step 1000
+Process 2: Chain finished.
+Process 2: Results saved to output/run_3.csv
+Process 2: Statistics saved to output/stats_3.csv
+Process 2: Done.
+[INFO] Process 5/20 starting run #5
+Process 4: Starting MCMC process...
+Process 4: Generating a new Starting Partition...
+Process 4: New initial partition created.
+Process 4: Creating MarkovChain...
+Process 4: Running Chain 5...
+Process 4: Step 100
+Process 4: Step 200
+Process 4: Step 300
+Process 4: Step 400
+Process 4: Step 500
+Process 4: Step 600
+Process 4: Step 700
+Process 4: Step 800
+Process 4: Step 900
+Process 4: Step 1000
+Process 4: Chain finished.
+Process 4: Results saved to output/run_5.csv
+Process 4: Statistics saved to output/stats_5.csv
+Process 4: Done.
+[INFO] Process 7/20 starting run #7
+Process 6: Starting MCMC process...
+Process 6: Generating a new Starting Partition...
+Process 6: New initial partition created.
+Process 6: Creating MarkovChain...
+Process 6: Running Chain 7...
+Process 6: Step 100
+Process 6: Step 200
+Process 6: Step 300
+Process 6: Step 400
+Process 6: Step 500
+Process 6: Step 600
+Process 6: Step 700
+Process 6: Step 800
+Process 6: Step 900
+Process 6: Step 1000
+Process 6: Chain finished.
+Process 6: Results saved to output/run_7.csv
+Process 6: Statistics saved to output/stats_7.csv
+Process 6: Done.
+[INFO] Process 9/20 starting run #9
+Process 8: Starting MCMC process...
+Process 8: Generating a new Starting Partition...
+Process 8: New initial partition created.
+Process 8: Creating MarkovChain...
+Process 8: Running Chain 9...
+Process 8: Step 100
+Process 8: Step 200
+Process 8: Step 300
+Process 8: Step 400
+Process 8: Step 500
+Process 8: Step 600
+Process 8: Step 700
+Process 8: Step 800
+Process 8: Step 900
+Process 8: Step 1000
+Process 8: Chain finished.
+Process 8: Results saved to output/run_9.csv
+Process 8: Statistics saved to output/stats_9.csv
+Process 8: Done.
+[INFO] Process 11/20 starting run #11
+Process 10: Starting MCMC process...
+Process 10: Generating a new Starting Partition...
+Process 10: New initial partition created.
+Process 10: Creating MarkovChain...
+Process 10: Running Chain 11...
+Process 10: Step 100
+Process 10: Step 200
+Process 10: Step 300
+Process 10: Step 400
+Process 10: Step 500
+Process 10: Step 600
+Process 10: Step 700
+Process 10: Step 800
+Process 10: Step 900
+Process 10: Step 1000
+Process 10: Chain finished.
+Process 10: Results saved to output/run_11.csv
+Process 10: Statistics saved to output/stats_11.csv
+Process 10: Done.
+[INFO] Process 13/20 starting run #13
+Process 12: Starting MCMC process...
+Process 12: Generating a new Starting Partition...
+Process 12: New initial partition created.
+Process 12: Creating MarkovChain...
+Process 12: Running Chain 13...
+Process 12: Step 100
+Process 12: Step 200
+Process 12: Step 300
+Process 12: Step 400
+Process 12: Step 500
+Process 12: Step 600
+Process 12: Step 700
+Process 12: Step 800
+Process 12: Step 900
+Process 12: Step 1000
+Process 12: Chain finished.
+Process 12: Results saved to output/run_13.csv
+Process 12: Statistics saved to output/stats_13.csv
+Process 12: Done.
+[INFO] Process 15/20 starting run #15
+Process 14: Starting MCMC process...
+Process 14: Generating a new Starting Partition...
+Process 14: New initial partition created.
+Process 14: Creating MarkovChain...
+Process 14: Running Chain 15...
+Process 14: Step 100
+Process 14: Step 200
+Process 14: Step 300
+Process 14: Step 400
+Process 14: Step 500
+Process 14: Step 600
+Process 14: Step 700
+Process 14: Step 800
+Process 14: Step 900
+Process 14: Step 1000
+Process 14: Chain finished.
+Process 14: Results saved to output/run_15.csv
+Process 14: Statistics saved to output/stats_15.csv
+Process 14: Done.
+[INFO] Process 17/20 starting run #17
+Process 16: Starting MCMC process...
+Process 16: Generating a new Starting Partition...
+Process 16: New initial partition created.
+Process 16: Creating MarkovChain...
+Process 16: Running Chain 17...
+Process 16: Step 100
+Process 16: Step 200
+Process 16: Step 300
+Process 16: Step 400
+Process 16: Step 500
+Process 16: Step 600
+Process 16: Step 700
+Process 16: Step 800
+Process 16: Step 900
+Process 16: Step 1000
+Process 16: Chain finished.
+Process 16: Results saved to output/run_17.csv
+Process 16: Statistics saved to output/stats_17.csv
+Process 16: Done.
+[INFO] Process 19/20 starting run #19
+Process 18: Starting MCMC process...
+Process 18: Generating a new Starting Partition...
+Process 18: New initial partition created.
+Process 18: Creating MarkovChain...
+Process 18: Running Chain 19...
+Process 18: Step 100
+Process 18: Step 200
+Process 18: Step 300
+Process 18: Step 400
+Process 18: Step 500
+Process 18: Step 600
+Process 18: Step 700
+Process 18: Step 800
+Process 18: Step 900
+Process 18: Step 1000
+Process 18: Chain finished.
+Process 18: Results saved to output/run_19.csv
+Process 18: Statistics saved to output/stats_19.csv
+Process 18: Done.
+[INFO] Process 2/20 starting run #2
+Process 1: Starting MCMC process...
+Process 1: Generating a new Starting Partition...
+Process 1: New initial partition created.
+Process 1: Creating MarkovChain...
+Process 1: Running Chain 2...
+Process 1: Step 100
+Process 1: Step 200
+Process 1: Step 300
+Process 1: Step 400
+Process 1: Step 500
+Process 1: Step 600
+Process 1: Step 700
+Process 1: Step 800
+Process 1: Step 900
+Process 1: Step 1000
+Process 1: Chain finished.
+Process 1: Results saved to output/run_2.csv
+Process 1: Statistics saved to output/stats_2.csv
+Process 1: Done.
+[INFO] Process 4/20 starting run #4
+Process 3: Starting MCMC process...
+Process 3: Generating a new Starting Partition...
+Process 3: New initial partition created.
+Process 3: Creating MarkovChain...
+Process 3: Running Chain 4...
+Process 3: Step 100
+Process 3: Step 200
+Process 3: Step 300
+Process 3: Step 400
+Process 3: Step 500
+Process 3: Step 600
+Process 3: Step 700
+Process 3: Step 800
+Process 3: Step 900
+Process 3: Step 1000
+Process 3: Chain finished.
+Process 3: Results saved to output/run_4.csv
+Process 3: Statistics saved to output/stats_4.csv
+Process 3: Done.
+[INFO] Process 6/20 starting run #6
+Process 5: Starting MCMC process...
+Process 5: Generating a new Starting Partition...
+Process 5: New initial partition created.
+Process 5: Creating MarkovChain...
+Process 5: Running Chain 6...
+Process 5: Step 100
+Process 5: Step 200
+Process 5: Step 300
+Process 5: Step 400
+Process 5: Step 500
+Process 5: Step 600
+Process 5: Step 700
+Process 5: Step 800
+Process 5: Step 900
+Process 5: Step 1000
+Process 5: Chain finished.
+Process 5: Results saved to output/run_6.csv
+Process 5: Statistics saved to output/stats_6.csv
+Process 5: Done.
+[INFO] Process 8/20 starting run #8
+Process 7: Starting MCMC process...
+Process 7: Generating a new Starting Partition...
+Process 7: New initial partition created.
+Process 7: Creating MarkovChain...
+Process 7: Running Chain 8...
+Process 7: Step 100
+Process 7: Step 200
+Process 7: Step 300
+Process 7: Step 400
+Process 7: Step 500
+Process 7: Step 600
+Process 7: Step 700
+Process 7: Step 800
+Process 7: Step 900
+Process 7: Step 1000
+Process 7: Chain finished.
+Process 7: Results saved to output/run_8.csv
+Process 7: Statistics saved to output/stats_8.csv
+Process 7: Done.
+[INFO] Process 10/20 starting run #10
+Process 9: Starting MCMC process...
+Process 9: Generating a new Starting Partition...
+Process 9: New initial partition created.
+Process 9: Creating MarkovChain...
+Process 9: Running Chain 10...
+Process 9: Step 100
+Process 9: Step 200
+Process 9: Step 300
+Process 9: Step 400
+Process 9: Step 500
+Process 9: Step 600
+Process 9: Step 700
+Process 9: Step 800
+Process 9: Step 900
+Process 9: Step 1000
+Process 9: Chain finished.
+Process 9: Results saved to output/run_10.csv
+Process 9: Statistics saved to output/stats_10.csv
+Process 9: Done.
+[INFO] Process 12/20 starting run #12
+Process 11: Starting MCMC process...
+Process 11: Generating a new Starting Partition...
+Process 11: New initial partition created.
+Process 11: Creating MarkovChain...
+Process 11: Running Chain 12...
+Process 11: Step 100
+Process 11: Step 200
+Process 11: Step 300
+Process 11: Step 400
+Process 11: Step 500
+Process 11: Step 600
+Process 11: Step 700
+Process 11: Step 800
+Process 11: Step 900
+Process 11: Step 1000
+Process 11: Chain finished.
+Process 11: Results saved to output/run_12.csv
+Process 11: Statistics saved to output/stats_12.csv
+Process 11: Done.
+[INFO] Process 14/20 starting run #14
+Process 13: Starting MCMC process...
+Process 13: Generating a new Starting Partition...
+Process 13: New initial partition created.
+Process 13: Creating MarkovChain...
+Process 13: Running Chain 14...
+Process 13: Step 100
+Process 13: Step 200
+Process 13: Step 300
+Process 13: Step 400
+Process 13: Step 500
+Process 13: Step 600
+Process 13: Step 700
+Process 13: Step 800
+Process 13: Step 900
+Process 13: Step 1000
+Process 13: Chain finished.
+Process 13: Results saved to output/run_14.csv
+Process 13: Statistics saved to output/stats_14.csv
+Process 13: Done.
+[INFO] Process 16/20 starting run #16
+Process 15: Starting MCMC process...
+Process 15: Generating a new Starting Partition...
+Process 15: New initial partition created.
+Process 15: Creating MarkovChain...
+Process 15: Running Chain 16...
+Process 15: Step 100
+Process 15: Step 200
+Process 15: Step 300
+Process 15: Step 400
+Process 15: Step 500
+Process 15: Step 600
+Process 15: Step 700
+Process 15: Step 800
+Process 15: Step 900
+Process 15: Step 1000
+Process 15: Chain finished.
+Process 15: Results saved to output/run_16.csv
+Process 15: Statistics saved to output/stats_16.csv
+Process 15: Done.
+[INFO] Process 20/20 starting run #20
+Process 19: Starting MCMC process...
+Process 19: Generating a new Starting Partition...
+Process 19: New initial partition created.
+Process 19: Creating MarkovChain...
+Process 19: Running Chain 20...
+Process 19: Step 100
+Process 19: Step 200
+Process 19: Step 300
+Process 19: Step 400
+Process 19: Step 500
+Process 19: Step 600
+Process 19: Step 700
+Process 19: Step 800
+Process 19: Step 900
+Process 19: Step 1000
+Process 19: Chain finished.
+Process 19: Results saved to output/run_20.csv
+Process 19: Statistics saved to output/stats_20.csv
+Process 19: Done.
+[INFO] Process 18/20 starting run #18
+Process 17: Starting MCMC process...
+Process 17: Generating a new Starting Partition...
+Process 17: New initial partition created.
+Process 17: Creating MarkovChain...
+Process 17: Running Chain 18...
+Process 17: Step 100
+Process 17: Step 200
+Process 17: Step 300
+Process 17: Step 400
+Process 17: Step 500
+Process 17: Step 600
+Process 17: Step 700
+Process 17: Step 800
+Process 17: Step 900
+Process 17: Step 1000
+Process 17: Chain finished.
+Process 17: Results saved to output/run_18.csv
+Process 17: Statistics saved to output/stats_18.csv
+Process 17: Done.
+Starting batch 2
+[INFO] Process 1/20 starting run #1
+Process 0: Starting MCMC process...
+Initial population per school:
+{'609730.0': 146343.0, '609738.0': 125909.0, '609734.0': 152595.0, '609724.0': 40646.0, '609704.0': 71901.0, '609719.0': 114853.0, '609740.0': 167112.0, '609723.0': 58176.0, '609727.0': 134890.0, '610587.0': 25896.0, '609705.0': 88248.0, '610384.0': 33096.0, '609735.0': 55467.0, '609764.0': 32301.0, '609715.0': 97044.0, '610323.0': 47672.0, '609709.0': 59414.0, '609710.0': 69393.0, '609682.0': 27829.0, '609716.0': 36630.0, '609722.0': 63001.0, '609746.0': 42825.0, '610592.0': 35506.0, '609759.0': 71375.0, '609695.0': 67804.0, '609713.0': 32403.0, '609733.0': 72300.0, '609739.0': 42037.0, '609674.0': 55612.0, '610518.0': 51340.0, '609708.0': 77057.0, '609729.0': 98776.0, '610389.0': 48138.0, '609732.0': 142522.0, '609725.0': 91190.0, '609762.0': 16635.0, '610543.0': 9770.0, '609741.0': 55189.0, '609718.0': 57635.0, '609698.0': 107161.0, '609712.0': 55699.0, '609761.0': 30282.0, '609728.0': 48678.0, '609691.0': 22038.0, '609756.0': 12663.0}
+Ideal population: 66512, Tolerance: +/- 40.0%
+Process 0: Generating a new Starting Partition...
+Process 0: New initial partition created.
+Process 0: Creating MarkovChain...
+Process 0: Running Chain 1...
+Process 0: Step 100
+Process 0: Step 200
+Process 0: Step 300
+Process 0: Step 400
+Process 0: Step 500
+Process 0: Step 600
+Process 0: Step 700
+Process 0: Step 800
+Process 0: Step 900
+Process 0: Step 1000
+Process 0: Chain finished.
+Process 0: Results saved to output/run_1.csv
+Process 0: Statistics saved to output/stats_1.csv
+Process 0: Done.
+All processes completed!
+Results are in the output/ directory
+Plots are in the results/ directory
+[INFO] Process 2/20 starting run #2
+Process 1: Starting MCMC process...
+Process 1: Generating a new Starting Partition...
+Process 1: New initial partition created.
+Process 1: Creating MarkovChain...
+Process 1: Running Chain 2...
+Process 1: Step 100
+Process 1: Step 200
+Process 1: Step 300
+Process 1: Step 400
+Process 1: Step 500
+Process 1: Step 600
+Process 1: Step 700
+Process 1: Step 800
+Process 1: Step 900
+Process 1: Step 1000
+Process 1: Chain finished.
+Process 1: Results saved to output/run_2.csv
+Process 1: Statistics saved to output/stats_2.csv
+Process 1: Done.
+[INFO] Process 3/20 starting run #3
+Process 2: Starting MCMC process...
+Process 2: Generating a new Starting Partition...
+Process 2: New initial partition created.
+Process 2: Creating MarkovChain...
+Process 2: Running Chain 3...
+Process 2: Step 100
+Process 2: Step 200
+Process 2: Step 300
+Process 2: Step 400
+Process 2: Step 500
+Process 2: Step 600
+Process 2: Step 700
+Process 2: Step 800
+Process 2: Step 900
+Process 2: Step 1000
+Process 2: Chain finished.
+Process 2: Results saved to output/run_3.csv
+Process 2: Statistics saved to output/stats_3.csv
+Process 2: Done.
+[INFO] Process 4/20 starting run #4
+Process 3: Starting MCMC process...
+Process 3: Generating a new Starting Partition...
+Process 3: New initial partition created.
+Process 3: Creating MarkovChain...
+Process 3: Running Chain 4...
+Process 3: Step 100
+Process 3: Step 200
+Process 3: Step 300
+Process 3: Step 400
+Process 3: Step 500
+Process 3: Step 600
+Process 3: Step 700
+Process 3: Step 800
+Process 3: Step 900
+Process 3: Step 1000
+Process 3: Chain finished.
+Process 3: Results saved to output/run_4.csv
+Process 3: Statistics saved to output/stats_4.csv
+Process 3: Done.
+[INFO] Process 5/20 starting run #5
+Process 4: Starting MCMC process...
+Process 4: Generating a new Starting Partition...
+Process 4: New initial partition created.
+Process 4: Creating MarkovChain...
+Process 4: Running Chain 5...
+Process 4: Step 100
+Process 4: Step 200
+Process 4: Step 300
+Process 4: Step 400
+Process 4: Step 500
+Process 4: Step 600
+Process 4: Step 700
+Process 4: Step 800
+Process 4: Step 900
+Process 4: Step 1000
+Process 4: Chain finished.
+Process 4: Results saved to output/run_5.csv
+Process 4: Statistics saved to output/stats_5.csv
+Process 4: Done.
+[INFO] Process 6/20 starting run #6
+Process 5: Starting MCMC process...
+Process 5: Generating a new Starting Partition...
+Process 5: New initial partition created.
+Process 5: Creating MarkovChain...
+Process 5: Running Chain 6...
+Process 5: Step 100
+Process 5: Step 200
+Process 5: Step 300
+Process 5: Step 400
+Process 5: Step 500
+Process 5: Step 600
+Process 5: Step 700
+Process 5: Step 800
+Process 5: Step 900
+Process 5: Step 1000
+Process 5: Chain finished.
+Process 5: Results saved to output/run_6.csv
+Process 5: Statistics saved to output/stats_6.csv
+Process 5: Done.
+[INFO] Process 7/20 starting run #7
+Process 6: Starting MCMC process...
+Process 6: Generating a new Starting Partition...
+Process 6: New initial partition created.
+Process 6: Creating MarkovChain...
+Process 6: Running Chain 7...
+Process 6: Step 100
+Process 6: Step 200
+Process 6: Step 300
+Process 6: Step 400
+Process 6: Step 500
+Process 6: Step 600
+Process 6: Step 700
+Process 6: Step 800
+Process 6: Step 900
+Process 6: Step 1000
+Process 6: Chain finished.
+Process 6: Results saved to output/run_7.csv
+Process 6: Statistics saved to output/stats_7.csv
+Process 6: Done.
+[INFO] Process 8/20 starting run #8
+Process 7: Starting MCMC process...
+Process 7: Generating a new Starting Partition...
+Process 7: New initial partition created.
+Process 7: Creating MarkovChain...
+Process 7: Running Chain 8...
+Process 7: Step 100
+Process 7: Step 200
+Process 7: Step 300
+Process 7: Step 400
+Process 7: Step 500
+Process 7: Step 600
+Process 7: Step 700
+Process 7: Step 800
+Process 7: Step 900
+Process 7: Step 1000
+Process 7: Chain finished.
+Process 7: Results saved to output/run_8.csv
+Process 7: Statistics saved to output/stats_8.csv
+Process 7: Done.
+[INFO] Process 9/20 starting run #9
+Process 8: Starting MCMC process...
+Process 8: Generating a new Starting Partition...
+Process 8: New initial partition created.
+Process 8: Creating MarkovChain...
+Process 8: Running Chain 9...
+Process 8: Step 100
+Process 8: Step 200
+Process 8: Step 300
+Process 8: Step 400
+Process 8: Step 500
+Process 8: Step 600
+Process 8: Step 700
+Process 8: Step 800
+Process 8: Step 900
+Process 8: Step 1000
+Process 8: Chain finished.
+Process 8: Results saved to output/run_9.csv
+Process 8: Statistics saved to output/stats_9.csv
+Process 8: Done.
+[INFO] Process 10/20 starting run #10
+Process 9: Starting MCMC process...
+Process 9: Generating a new Starting Partition...
+Process 9: New initial partition created.
+Process 9: Creating MarkovChain...
+Process 9: Running Chain 10...
+Process 9: Step 100
+Process 9: Step 200
+Process 9: Step 300
+Process 9: Step 400
+Process 9: Step 500
+Process 9: Step 600
+Process 9: Step 700
+Process 9: Step 800
+Process 9: Step 900
+Process 9: Step 1000
+Process 9: Chain finished.
+Process 9: Results saved to output/run_10.csv
+Process 9: Statistics saved to output/stats_10.csv
+Process 9: Done.
+[INFO] Process 11/20 starting run #11
+Process 10: Starting MCMC process...
+Process 10: Generating a new Starting Partition...
+Process 10: New initial partition created.
+Process 10: Creating MarkovChain...
+Process 10: Running Chain 11...
+Process 10: Step 100
+Process 10: Step 200
+Process 10: Step 300
+Process 10: Step 400
+Process 10: Step 500
+Process 10: Step 600
+Process 10: Step 700
+Process 10: Step 800
+Process 10: Step 900
+Process 10: Step 1000
+Process 10: Chain finished.
+Process 10: Results saved to output/run_11.csv
+Process 10: Statistics saved to output/stats_11.csv
+Process 10: Done.
+[INFO] Process 12/20 starting run #12
+Process 11: Starting MCMC process...
+Process 11: Generating a new Starting Partition...
+Process 11: New initial partition created.
+Process 11: Creating MarkovChain...
+Process 11: Running Chain 12...
+Process 11: Step 100
+Process 11: Step 200
+Process 11: Step 300
+Process 11: Step 400
+Process 11: Step 500
+Process 11: Step 600
+Process 11: Step 700
+Process 11: Step 800
+Process 11: Step 900
+Process 11: Step 1000
+Process 11: Chain finished.
+Process 11: Results saved to output/run_12.csv
+Process 11: Statistics saved to output/stats_12.csv
+Process 11: Done.
+[INFO] Process 13/20 starting run #13
+Process 12: Starting MCMC process...
+Process 12: Generating a new Starting Partition...
+Process 12: New initial partition created.
+Process 12: Creating MarkovChain...
+Process 12: Running Chain 13...
+Process 12: Step 100
+Process 12: Step 200
+Process 12: Step 300
+Process 12: Step 400
+Process 12: Step 500
+Process 12: Step 600
+Process 12: Step 700
+Process 12: Step 800
+Process 12: Step 900
+Process 12: Step 1000
+Process 12: Chain finished.
+Process 12: Results saved to output/run_13.csv
+Process 12: Statistics saved to output/stats_13.csv
+Process 12: Done.
+[INFO] Process 14/20 starting run #14
+Process 13: Starting MCMC process...
+Process 13: Generating a new Starting Partition...
+Process 13: New initial partition created.
+Process 13: Creating MarkovChain...
+Process 13: Running Chain 14...
+Process 13: Step 100
+Process 13: Step 200
+Process 13: Step 300
+Process 13: Step 400
+Process 13: Step 500
+Process 13: Step 600
+Process 13: Step 700
+Process 13: Step 800
+Process 13: Step 900
+Process 13: Step 1000
+Process 13: Chain finished.
+Process 13: Results saved to output/run_14.csv
+Process 13: Statistics saved to output/stats_14.csv
+Process 13: Done.
+[INFO] Process 17/20 starting run #17
+Process 16: Starting MCMC process...
+Process 16: Generating a new Starting Partition...
+Process 16: New initial partition created.
+Process 16: Creating MarkovChain...
+Process 16: Running Chain 17...
+Process 16: Step 100
+Process 16: Step 200
+Process 16: Step 300
+Process 16: Step 400
+Process 16: Step 500
+Process 16: Step 600
+Process 16: Step 700
+Process 16: Step 800
+Process 16: Step 900
+Process 16: Step 1000
+Process 16: Chain finished.
+Process 16: Results saved to output/run_17.csv
+Process 16: Statistics saved to output/stats_17.csv
+Process 16: Done.
+[INFO] Process 18/20 starting run #18
+Process 17: Starting MCMC process...
+Process 17: Generating a new Starting Partition...
+Process 17: New initial partition created.
+Process 17: Creating MarkovChain...
+Process 17: Running Chain 18...
+Process 17: Step 100
+Process 17: Step 200
+Process 17: Step 300
+Process 17: Step 400
+Process 17: Step 500
+Process 17: Step 600
+Process 17: Step 700
+Process 17: Step 800
+Process 17: Step 900
+Process 17: Step 1000
+Process 17: Chain finished.
+Process 17: Results saved to output/run_18.csv
+Process 17: Statistics saved to output/stats_18.csv
+Process 17: Done.
+[INFO] Process 19/20 starting run #19
+Process 18: Starting MCMC process...
+Process 18: Generating a new Starting Partition...
+Process 18: New initial partition created.
+Process 18: Creating MarkovChain...
+Process 18: Running Chain 19...
+Process 18: Step 100
+Process 18: Step 200
+Process 18: Step 300
+Process 18: Step 400
+Process 18: Step 500
+Process 18: Step 600
+Process 18: Step 700
+Process 18: Step 800
+Process 18: Step 900
+Process 18: Step 1000
+Process 18: Chain finished.
+Process 18: Results saved to output/run_19.csv
+Process 18: Statistics saved to output/stats_19.csv
+Process 18: Done.
+[INFO] Process 20/20 starting run #20
+Process 19: Starting MCMC process...
+Process 19: Generating a new Starting Partition...
+Process 19: New initial partition created.
+Process 19: Creating MarkovChain...
+Process 19: Running Chain 20...
+Process 19: Step 100
+Process 19: Step 200
+Process 19: Step 300
+Process 19: Step 400
+Process 19: Step 500
+Process 19: Step 600
+Process 19: Step 700
+Process 19: Step 800
+Process 19: Step 900
+Process 19: Step 1000
+Process 19: Chain finished.
+Process 19: Results saved to output/run_20.csv
+Process 19: Statistics saved to output/stats_20.csv
+Process 19: Done.
+[INFO] Process 15/20 starting run #15
+Process 14: Starting MCMC process...
+Process 14: Generating a new Starting Partition...
+Process 14: New initial partition created.
+Process 14: Creating MarkovChain...
+Process 14: Running Chain 15...
+Process 14: Step 100
+Process 14: Step 200
+Process 14: Step 300
+Process 14: Step 400
+Process 14: Step 500
+Process 14: Step 600
+Process 14: Step 700
+Process 14: Step 800
+Process 14: Step 900
+Process 14: Step 1000
+Process 14: Chain finished.
+Process 14: Results saved to output/run_15.csv
+Process 14: Statistics saved to output/stats_15.csv
+Process 14: Done.
+[INFO] Process 16/20 starting run #16
+Process 15: Starting MCMC process...
+Process 15: Generating a new Starting Partition...
+Process 15: New initial partition created.
+Process 15: Creating MarkovChain...
+Process 15: Running Chain 16...
+Process 15: Step 100
+Process 15: Step 200
+Process 15: Step 300
+Process 15: Step 400
+Process 15: Step 500
+Process 15: Step 600
+Process 15: Step 700
+Process 15: Step 800
+Process 15: Step 900
+Process 15: Step 1000
+Process 15: Chain finished.
+Process 15: Results saved to output/run_16.csv
+Process 15: Statistics saved to output/stats_16.csv
+Process 15: Done.
+Starting batch 3
+[INFO] Process 1/20 starting run #1
+Process 0: Starting MCMC process...
+Initial population per school:
+{'609730.0': 146343.0, '609738.0': 125909.0, '609734.0': 152595.0, '609724.0': 40646.0, '609704.0': 71901.0, '609719.0': 114853.0, '609740.0': 167112.0, '609723.0': 58176.0, '609727.0': 134890.0, '610587.0': 25896.0, '609705.0': 88248.0, '610384.0': 33096.0, '609735.0': 55467.0, '609764.0': 32301.0, '609715.0': 97044.0, '610323.0': 47672.0, '609709.0': 59414.0, '609710.0': 69393.0, '609682.0': 27829.0, '609716.0': 36630.0, '609722.0': 63001.0, '609746.0': 42825.0, '610592.0': 35506.0, '609759.0': 71375.0, '609695.0': 67804.0, '609713.0': 32403.0, '609733.0': 72300.0, '609739.0': 42037.0, '609674.0': 55612.0, '610518.0': 51340.0, '609708.0': 77057.0, '609729.0': 98776.0, '610389.0': 48138.0, '609732.0': 142522.0, '609725.0': 91190.0, '609762.0': 16635.0, '610543.0': 9770.0, '609741.0': 55189.0, '609718.0': 57635.0, '609698.0': 107161.0, '609712.0': 55699.0, '609761.0': 30282.0, '609728.0': 48678.0, '609691.0': 22038.0, '609756.0': 12663.0}
+Ideal population: 66512, Tolerance: +/- 40.0%
+Process 0: Generating a new Starting Partition...
+Process 0: New initial partition created.
+Process 0: Creating MarkovChain...
+Process 0: Running Chain 1...
+Process 0: Step 100
+Process 0: Step 200
+Process 0: Step 300
+Process 0: Step 400
+Process 0: Step 500
+Process 0: Step 600
+Process 0: Step 700
+Process 0: Step 800
+Process 0: Step 900
+Process 0: Step 1000
+Process 0: Chain finished.
+Process 0: Results saved to output/run_1.csv
+Process 0: Statistics saved to output/stats_1.csv
+Process 0: Done.
+All processes completed!
+Results are in the output/ directory
+Plots are in the results/ directory
+[INFO] Process 2/20 starting run #2
+Process 1: Starting MCMC process...
+Process 1: Generating a new Starting Partition...
+Process 1: New initial partition created.
+Process 1: Creating MarkovChain...
+Process 1: Running Chain 2...
+Process 1: Step 100
+Process 1: Step 200
+Process 1: Step 300
+Process 1: Step 400
+Process 1: Step 500
+Process 1: Step 600
+Process 1: Step 700
+Process 1: Step 800
+Process 1: Step 900
+Process 1: Step 1000
+Process 1: Chain finished.
+Process 1: Results saved to output/run_2.csv
+Process 1: Statistics saved to output/stats_2.csv
+Process 1: Done.
+[INFO] Process 3/20 starting run #3
+Process 2: Starting MCMC process...
+Process 2: Generating a new Starting Partition...
+Process 2: New initial partition created.
+Process 2: Creating MarkovChain...
+Process 2: Running Chain 3...
+Process 2: Step 100
+Process 2: Step 200
+Process 2: Step 300
+Process 2: Step 400
+Process 2: Step 500
+Process 2: Step 600
+Process 2: Step 700
+Process 2: Step 800
+Process 2: Step 900
+Process 2: Step 1000
+Process 2: Chain finished.
+Process 2: Results saved to output/run_3.csv
+Process 2: Statistics saved to output/stats_3.csv
+Process 2: Done.
+[INFO] Process 4/20 starting run #4
+Process 3: Starting MCMC process...
+Process 3: Generating a new Starting Partition...
+Process 3: New initial partition created.
+Process 3: Creating MarkovChain...
+Process 3: Running Chain 4...
+Process 3: Step 100
+Process 3: Step 200
+Process 3: Step 300
+Process 3: Step 400
+Process 3: Step 500
+Process 3: Step 600
+Process 3: Step 700
+Process 3: Step 800
+Process 3: Step 900
+Process 3: Step 1000
+Process 3: Chain finished.
+Process 3: Results saved to output/run_4.csv
+Process 3: Statistics saved to output/stats_4.csv
+Process 3: Done.
+[INFO] Process 5/20 starting run #5
+Process 4: Starting MCMC process...
+Process 4: Generating a new Starting Partition...
+Process 4: New initial partition created.
+Process 4: Creating MarkovChain...
+Process 4: Running Chain 5...
+Process 4: Step 100
+Process 4: Step 200
+Process 4: Step 300
+Process 4: Step 400
+Process 4: Step 500
+Process 4: Step 600
+Process 4: Step 700
+Process 4: Step 800
+Process 4: Step 900
+Process 4: Step 1000
+Process 4: Chain finished.
+Process 4: Results saved to output/run_5.csv
+Process 4: Statistics saved to output/stats_5.csv
+Process 4: Done.
+[INFO] Process 6/20 starting run #6
+Process 5: Starting MCMC process...
+Process 5: Generating a new Starting Partition...
+Process 5: New initial partition created.
+Process 5: Creating MarkovChain...
+Process 5: Running Chain 6...
+Process 5: Step 100
+Process 5: Step 200
+Process 5: Step 300
+Process 5: Step 400
+Process 5: Step 500
+Process 5: Step 600
+Process 5: Step 700
+Process 5: Step 800
+Process 5: Step 900
+Process 5: Step 1000
+Process 5: Chain finished.
+Process 5: Results saved to output/run_6.csv
+Process 5: Statistics saved to output/stats_6.csv
+Process 5: Done.
+[INFO] Process 7/20 starting run #7
+Process 6: Starting MCMC process...
+Process 6: Generating a new Starting Partition...
+Process 6: New initial partition created.
+Process 6: Creating MarkovChain...
+Process 6: Running Chain 7...
+Process 6: Step 100
+Process 6: Step 200
+Process 6: Step 300
+Process 6: Step 400
+Process 6: Step 500
+Process 6: Step 600
+Process 6: Step 700
+Process 6: Step 800
+Process 6: Step 900
+Process 6: Step 1000
+Process 6: Chain finished.
+Process 6: Results saved to output/run_7.csv
+Process 6: Statistics saved to output/stats_7.csv
+Process 6: Done.
+[INFO] Process 8/20 starting run #8
+Process 7: Starting MCMC process...
+Process 7: Generating a new Starting Partition...
+Process 7: New initial partition created.
+Process 7: Creating MarkovChain...
+Process 7: Running Chain 8...
+Process 7: Step 100
+Process 7: Step 200
+Process 7: Step 300
+Process 7: Step 400
+Process 7: Step 500
+Process 7: Step 600
+Process 7: Step 700
+Process 7: Step 800
+Process 7: Step 900
+Process 7: Step 1000
+Process 7: Chain finished.
+Process 7: Results saved to output/run_8.csv
+Process 7: Statistics saved to output/stats_8.csv
+Process 7: Done.
+[INFO] Process 9/20 starting run #9
+Process 8: Starting MCMC process...
+Process 8: Generating a new Starting Partition...
+Process 8: New initial partition created.
+Process 8: Creating MarkovChain...
+Process 8: Running Chain 9...
+Process 8: Step 100
+Process 8: Step 200
+Process 8: Step 300
+Process 8: Step 400
+Process 8: Step 500
+Process 8: Step 600
+Process 8: Step 700
+Process 8: Step 800
+Process 8: Step 900
+Process 8: Step 1000
+Process 8: Chain finished.
+Process 8: Results saved to output/run_9.csv
+Process 8: Statistics saved to output/stats_9.csv
+Process 8: Done.
+[INFO] Process 10/20 starting run #10
+Process 9: Starting MCMC process...
+Process 9: Generating a new Starting Partition...
+Process 9: New initial partition created.
+Process 9: Creating MarkovChain...
+Process 9: Running Chain 10...
+Process 9: Step 100
+Process 9: Step 200
+Process 9: Step 300
+Process 9: Step 400
+Process 9: Step 500
+Process 9: Step 600
+Process 9: Step 700
+Process 9: Step 800
+Process 9: Step 900
+Process 9: Step 1000
+Process 9: Chain finished.
+Process 9: Results saved to output/run_10.csv
+Process 9: Statistics saved to output/stats_10.csv
+Process 9: Done.
+[INFO] Process 11/20 starting run #11
+Process 10: Starting MCMC process...
+Process 10: Generating a new Starting Partition...
+Process 10: New initial partition created.
+Process 10: Creating MarkovChain...
+Process 10: Running Chain 11...
+Process 10: Step 100
+Process 10: Step 200
+Process 10: Step 300
+Process 10: Step 400
+Process 10: Step 500
+Process 10: Step 600
+Process 10: Step 700
+Process 10: Step 800
+Process 10: Step 900
+Process 10: Step 1000
+Process 10: Chain finished.
+Process 10: Results saved to output/run_11.csv
+Process 10: Statistics saved to output/stats_11.csv
+Process 10: Done.
+[INFO] Process 12/20 starting run #12
+Process 11: Starting MCMC process...
+Process 11: Generating a new Starting Partition...
+Process 11: New initial partition created.
+Process 11: Creating MarkovChain...
+Process 11: Running Chain 12...
+Process 11: Step 100
+Process 11: Step 200
+Process 11: Step 300
+Process 11: Step 400
+Process 11: Step 500
+Process 11: Step 600
+Process 11: Step 700
+Process 11: Step 800
+Process 11: Step 900
+Process 11: Step 1000
+Process 11: Chain finished.
+Process 11: Results saved to output/run_12.csv
+Process 11: Statistics saved to output/stats_12.csv
+Process 11: Done.
+[INFO] Process 13/20 starting run #13
+Process 12: Starting MCMC process...
+Process 12: Generating a new Starting Partition...
+Process 12: New initial partition created.
+Process 12: Creating MarkovChain...
+Process 12: Running Chain 13...
+Process 12: Step 100
+Process 12: Step 200
+Process 12: Step 300
+Process 12: Step 400
+Process 12: Step 500
+Process 12: Step 600
+Process 12: Step 700
+Process 12: Step 800
+Process 12: Step 900
+Process 12: Step 1000
+Process 12: Chain finished.
+Process 12: Results saved to output/run_13.csv
+Process 12: Statistics saved to output/stats_13.csv
+Process 12: Done.
+[INFO] Process 14/20 starting run #14
+Process 13: Starting MCMC process...
+Process 13: Generating a new Starting Partition...
+Process 13: New initial partition created.
+Process 13: Creating MarkovChain...
+Process 13: Running Chain 14...
+Process 13: Step 100
+Process 13: Step 200
+Process 13: Step 300
+Process 13: Step 400
+Process 13: Step 500
+Process 13: Step 600
+Process 13: Step 700
+Process 13: Step 800
+Process 13: Step 900
+Process 13: Step 1000
+Process 13: Chain finished.
+Process 13: Results saved to output/run_14.csv
+Process 13: Statistics saved to output/stats_14.csv
+Process 13: Done.
+[INFO] Process 15/20 starting run #15
+Process 14: Starting MCMC process...
+Process 14: Generating a new Starting Partition...
+Process 14: New initial partition created.
+Process 14: Creating MarkovChain...
+Process 14: Running Chain 15...
+Process 14: Step 100
+Process 14: Step 200
+Process 14: Step 300
+Process 14: Step 400
+Process 14: Step 500
+Process 14: Step 600
+Process 14: Step 700
+Process 14: Step 800
+Process 14: Step 900
+Process 14: Step 1000
+Process 14: Chain finished.
+Process 14: Results saved to output/run_15.csv
+Process 14: Statistics saved to output/stats_15.csv
+Process 14: Done.
+[INFO] Process 16/20 starting run #16
+Process 15: Starting MCMC process...
+Process 15: Generating a new Starting Partition...
+Process 15: New initial partition created.
+Process 15: Creating MarkovChain...
+Process 15: Running Chain 16...
+Process 15: Step 100
+Process 15: Step 200
+Process 15: Step 300
+Process 15: Step 400
+Process 15: Step 500
+Process 15: Step 600
+Process 15: Step 700
+Process 15: Step 800
+Process 15: Step 900
+Process 15: Step 1000
+Process 15: Chain finished.
+Process 15: Results saved to output/run_16.csv
+Process 15: Statistics saved to output/stats_16.csv
+Process 15: Done.
+[INFO] Process 17/20 starting run #17
+Process 16: Starting MCMC process...
+Process 16: Generating a new Starting Partition...
+Process 16: New initial partition created.
+Process 16: Creating MarkovChain...
+Process 16: Running Chain 17...
+Process 16: Step 100
+Process 16: Step 200
+Process 16: Step 300
+Process 16: Step 400
+Process 16: Step 500
+Process 16: Step 600
+Process 16: Step 700
+Process 16: Step 800
+Process 16: Step 900
+Process 16: Step 1000
+Process 16: Chain finished.
+Process 16: Results saved to output/run_17.csv
+Process 16: Statistics saved to output/stats_17.csv
+Process 16: Done.
+[INFO] Process 18/20 starting run #18
+Process 17: Starting MCMC process...
+Process 17: Generating a new Starting Partition...
+Process 17: New initial partition created.
+Process 17: Creating MarkovChain...
+Process 17: Running Chain 18...
+Process 17: Step 100
+Process 17: Step 200
+Process 17: Step 300
+Process 17: Step 400
+Process 17: Step 500
+Process 17: Step 600
+Process 17: Step 700
+Process 17: Step 800
+Process 17: Step 900
+Process 17: Step 1000
+Process 17: Chain finished.
+Process 17: Results saved to output/run_18.csv
+Process 17: Statistics saved to output/stats_18.csv
+Process 17: Done.
+[INFO] Process 19/20 starting run #19
+Process 18: Starting MCMC process...
+Process 18: Generating a new Starting Partition...
+Process 18: New initial partition created.
+Process 18: Creating MarkovChain...
+Process 18: Running Chain 19...
+Process 18: Step 100
+Process 18: Step 200
+Process 18: Step 300
+Process 18: Step 400
+Process 18: Step 500
+Process 18: Step 600
+Process 18: Step 700
+Process 18: Step 800
+Process 18: Step 900
+Process 18: Step 1000
+Process 18: Chain finished.
+Process 18: Results saved to output/run_19.csv
+Process 18: Statistics saved to output/stats_19.csv
+Process 18: Done.
+[INFO] Process 20/20 starting run #20
+Process 19: Starting MCMC process...
+Process 19: Generating a new Starting Partition...
+Process 19: New initial partition created.
+Process 19: Creating MarkovChain...
+Process 19: Running Chain 20...
+Process 19: Step 100
+Process 19: Step 200
+Process 19: Step 300
+Process 19: Step 400
+Process 19: Step 500
+Process 19: Step 600
+Process 19: Step 700
+Process 19: Step 800
+Process 19: Step 900
+Process 19: Step 1000
+Process 19: Chain finished.
+Process 19: Results saved to output/run_20.csv
+Process 19: Statistics saved to output/stats_20.csv
+Process 19: Done.
+Starting batch 4
+[INFO] Process 1/20 starting run #1
+Process 0: Starting MCMC process...
+Initial population per school:
+{'609730.0': 146343.0, '609738.0': 125909.0, '609734.0': 152595.0, '609724.0': 40646.0, '609704.0': 71901.0, '609719.0': 114853.0, '609740.0': 167112.0, '609723.0': 58176.0, '609727.0': 134890.0, '610587.0': 25896.0, '609705.0': 88248.0, '610384.0': 33096.0, '609735.0': 55467.0, '609764.0': 32301.0, '609715.0': 97044.0, '610323.0': 47672.0, '609709.0': 59414.0, '609710.0': 69393.0, '609682.0': 27829.0, '609716.0': 36630.0, '609722.0': 63001.0, '609746.0': 42825.0, '610592.0': 35506.0, '609759.0': 71375.0, '609695.0': 67804.0, '609713.0': 32403.0, '609733.0': 72300.0, '609739.0': 42037.0, '609674.0': 55612.0, '610518.0': 51340.0, '609708.0': 77057.0, '609729.0': 98776.0, '610389.0': 48138.0, '609732.0': 142522.0, '609725.0': 91190.0, '609762.0': 16635.0, '610543.0': 9770.0, '609741.0': 55189.0, '609718.0': 57635.0, '609698.0': 107161.0, '609712.0': 55699.0, '609761.0': 30282.0, '609728.0': 48678.0, '609691.0': 22038.0, '609756.0': 12663.0}
+Ideal population: 66512, Tolerance: +/- 40.0%
+Process 0: Generating a new Starting Partition...
+Process 0: New initial partition created.
+Process 0: Creating MarkovChain...
+Process 0: Running Chain 1...
+Process 0: Step 100
+Process 0: Step 200
+Process 0: Step 300
+Process 0: Step 400
+Process 0: Step 500
+Process 0: Step 600
+Process 0: Step 700
+Process 0: Step 800
+Process 0: Step 900
+Process 0: Step 1000
+Process 0: Chain finished.
+Process 0: Results saved to output/run_1.csv
+Process 0: Statistics saved to output/stats_1.csv
+Process 0: Done.
+All processes completed!
+Results are in the output/ directory
+Plots are in the results/ directory
+[INFO] Process 2/20 starting run #2
+Process 1: Starting MCMC process...
+Process 1: Generating a new Starting Partition...
+Process 1: New initial partition created.
+Process 1: Creating MarkovChain...
+Process 1: Running Chain 2...
+Process 1: Step 100
+Process 1: Step 200
+Process 1: Step 300
+Process 1: Step 400
+Process 1: Step 500
+Process 1: Step 600
+Process 1: Step 700
+Process 1: Step 800
+Process 1: Step 900
+Process 1: Step 1000
+Process 1: Chain finished.
+Process 1: Results saved to output/run_2.csv
+Process 1: Statistics saved to output/stats_2.csv
+Process 1: Done.
+[INFO] Process 3/20 starting run #3
+Process 2: Starting MCMC process...
+Process 2: Generating a new Starting Partition...
+Process 2: New initial partition created.
+Process 2: Creating MarkovChain...
+Process 2: Running Chain 3...
+Process 2: Step 100
+Process 2: Step 200
+Process 2: Step 300
+Process 2: Step 400
+Process 2: Step 500
+Process 2: Step 600
+Process 2: Step 700
+Process 2: Step 800
+Process 2: Step 900
+Process 2: Step 1000
+Process 2: Chain finished.
+Process 2: Results saved to output/run_3.csv
+Process 2: Statistics saved to output/stats_3.csv
+Process 2: Done.
+[INFO] Process 4/20 starting run #4
+Process 3: Starting MCMC process...
+Process 3: Generating a new Starting Partition...
+Process 3: New initial partition created.
+Process 3: Creating MarkovChain...
+Process 3: Running Chain 4...
+Process 3: Step 100
+Process 3: Step 200
+Process 3: Step 300
+Process 3: Step 400
+Process 3: Step 500
+Process 3: Step 600
+Process 3: Step 700
+Process 3: Step 800
+Process 3: Step 900
+Process 3: Step 1000
+Process 3: Chain finished.
+Process 3: Results saved to output/run_4.csv
+Process 3: Statistics saved to output/stats_4.csv
+Process 3: Done.
+[INFO] Process 5/20 starting run #5
+Process 4: Starting MCMC process...
+Process 4: Generating a new Starting Partition...
+Process 4: New initial partition created.
+Process 4: Creating MarkovChain...
+Process 4: Running Chain 5...
+Process 4: Step 100
+Process 4: Step 200
+Process 4: Step 300
+Process 4: Step 400
+Process 4: Step 500
+Process 4: Step 600
+Process 4: Step 700
+Process 4: Step 800
+Process 4: Step 900
+Process 4: Step 1000
+Process 4: Chain finished.
+Process 4: Results saved to output/run_5.csv
+Process 4: Statistics saved to output/stats_5.csv
+Process 4: Done.
+[INFO] Process 6/20 starting run #6
+Process 5: Starting MCMC process...
+Process 5: Generating a new Starting Partition...
+Process 5: New initial partition created.
+Process 5: Creating MarkovChain...
+Process 5: Running Chain 6...
+Process 5: Step 100
+Process 5: Step 200
+Process 5: Step 300
+Process 5: Step 400
+Process 5: Step 500
+Process 5: Step 600
+Process 5: Step 700
+Process 5: Step 800
+Process 5: Step 900
+Process 5: Step 1000
+Process 5: Chain finished.
+Process 5: Results saved to output/run_6.csv
+Process 5: Statistics saved to output/stats_6.csv
+Process 5: Done.
+[INFO] Process 7/20 starting run #7
+Process 6: Starting MCMC process...
+Process 6: Generating a new Starting Partition...
+Process 6: New initial partition created.
+Process 6: Creating MarkovChain...
+Process 6: Running Chain 7...
+Process 6: Step 100
+Process 6: Step 200
+Process 6: Step 300
+Process 6: Step 400
+Process 6: Step 500
+Process 6: Step 600
+Process 6: Step 700
+Process 6: Step 800
+Process 6: Step 900
+Process 6: Step 1000
+Process 6: Chain finished.
+Process 6: Results saved to output/run_7.csv
+Process 6: Statistics saved to output/stats_7.csv
+Process 6: Done.
+[INFO] Process 8/20 starting run #8
+Process 7: Starting MCMC process...
+Process 7: Generating a new Starting Partition...
+Process 7: New initial partition created.
+Process 7: Creating MarkovChain...
+Process 7: Running Chain 8...
+Process 7: Step 100
+Process 7: Step 200
+Process 7: Step 300
+Process 7: Step 400
+Process 7: Step 500
+Process 7: Step 600
+Process 7: Step 700
+Process 7: Step 800
+Process 7: Step 900
+Process 7: Step 1000
+Process 7: Chain finished.
+Process 7: Results saved to output/run_8.csv
+Process 7: Statistics saved to output/stats_8.csv
+Process 7: Done.
+[INFO] Process 9/20 starting run #9
+Process 8: Starting MCMC process...
+Process 8: Generating a new Starting Partition...
+Process 8: New initial partition created.
+Process 8: Creating MarkovChain...
+Process 8: Running Chain 9...
+Process 8: Step 100
+Process 8: Step 200
+Process 8: Step 300
+Process 8: Step 400
+Process 8: Step 500
+Process 8: Step 600
+Process 8: Step 700
+Process 8: Step 800
+Process 8: Step 900
+Process 8: Step 1000
+Process 8: Chain finished.
+Process 8: Results saved to output/run_9.csv
+Process 8: Statistics saved to output/stats_9.csv
+Process 8: Done.
+[INFO] Process 10/20 starting run #10
+Process 9: Starting MCMC process...
+Process 9: Generating a new Starting Partition...
+Process 9: New initial partition created.
+Process 9: Creating MarkovChain...
+Process 9: Running Chain 10...
+Process 9: Step 100
+Process 9: Step 200
+Process 9: Step 300
+Process 9: Step 400
+Process 9: Step 500
+Process 9: Step 600
+Process 9: Step 700
+Process 9: Step 800
+Process 9: Step 900
+Process 9: Step 1000
+Process 9: Chain finished.
+Process 9: Results saved to output/run_10.csv
+Process 9: Statistics saved to output/stats_10.csv
+Process 9: Done.
+[INFO] Process 11/20 starting run #11
+Process 10: Starting MCMC process...
+Process 10: Generating a new Starting Partition...
+Process 10: New initial partition created.
+Process 10: Creating MarkovChain...
+Process 10: Running Chain 11...
+Process 10: Step 100
+Process 10: Step 200
+Process 10: Step 300
+Process 10: Step 400
+Process 10: Step 500
+Process 10: Step 600
+Process 10: Step 700
+Process 10: Step 800
+Process 10: Step 900
+Process 10: Step 1000
+Process 10: Chain finished.
+Process 10: Results saved to output/run_11.csv
+Process 10: Statistics saved to output/stats_11.csv
+Process 10: Done.
+[INFO] Process 12/20 starting run #12
+Process 11: Starting MCMC process...
+Process 11: Generating a new Starting Partition...
+Process 11: New initial partition created.
+Process 11: Creating MarkovChain...
+Process 11: Running Chain 12...
+Process 11: Step 100
+Process 11: Step 200
+Process 11: Step 300
+Process 11: Step 400
+Process 11: Step 500
+Process 11: Step 600
+Process 11: Step 700
+Process 11: Step 800
+Process 11: Step 900
+Process 11: Step 1000
+Process 11: Chain finished.
+Process 11: Results saved to output/run_12.csv
+Process 11: Statistics saved to output/stats_12.csv
+Process 11: Done.
+[INFO] Process 13/20 starting run #13
+Process 12: Starting MCMC process...
+Process 12: Generating a new Starting Partition...
+Process 12: New initial partition created.
+Process 12: Creating MarkovChain...
+Process 12: Running Chain 13...
+Process 12: Step 100
+Process 12: Step 200
+Process 12: Step 300
+Process 12: Step 400
+Process 12: Step 500
+Process 12: Step 600
+Process 12: Step 700
+Process 12: Step 800
+Process 12: Step 900
+Process 12: Step 1000
+Process 12: Chain finished.
+Process 12: Results saved to output/run_13.csv
+Process 12: Statistics saved to output/stats_13.csv
+Process 12: Done.
+[INFO] Process 14/20 starting run #14
+Process 13: Starting MCMC process...
+Process 13: Generating a new Starting Partition...
+Process 13: New initial partition created.
+Process 13: Creating MarkovChain...
+Process 13: Running Chain 14...
+Process 13: Step 100
+Process 13: Step 200
+Process 13: Step 300
+Process 13: Step 400
+Process 13: Step 500
+Process 13: Step 600
+Process 13: Step 700
+Process 13: Step 800
+Process 13: Step 900
+Process 13: Step 1000
+Process 13: Chain finished.
+Process 13: Results saved to output/run_14.csv
+Process 13: Statistics saved to output/stats_14.csv
+Process 13: Done.
+[INFO] Process 15/20 starting run #15
+Process 14: Starting MCMC process...
+Process 14: Generating a new Starting Partition...
+Process 14: New initial partition created.
+Process 14: Creating MarkovChain...
+Process 14: Running Chain 15...
+Process 14: Step 100
+Process 14: Step 200
+Process 14: Step 300
+Process 14: Step 400
+Process 14: Step 500
+Process 14: Step 600
+Process 14: Step 700
+Process 14: Step 800
+Process 14: Step 900
+Process 14: Step 1000
+Process 14: Chain finished.
+Process 14: Results saved to output/run_15.csv
+Process 14: Statistics saved to output/stats_15.csv
+Process 14: Done.
+[INFO] Process 16/20 starting run #16
+Process 15: Starting MCMC process...
+Process 15: Generating a new Starting Partition...
+Process 15: New initial partition created.
+Process 15: Creating MarkovChain...
+Process 15: Running Chain 16...
+Process 15: Step 100
+Process 15: Step 200
+Process 15: Step 300
+Process 15: Step 400
+Process 15: Step 500
+Process 15: Step 600
+Process 15: Step 700
+Process 15: Step 800
+Process 15: Step 900
+Process 15: Step 1000
+Process 15: Chain finished.
+Process 15: Results saved to output/run_16.csv
+Process 15: Statistics saved to output/stats_16.csv
+Process 15: Done.
+[INFO] Process 17/20 starting run #17
+Process 16: Starting MCMC process...
+Process 16: Generating a new Starting Partition...
+Process 16: New initial partition created.
+Process 16: Creating MarkovChain...
+Process 16: Running Chain 17...
+Process 16: Step 100
+Process 16: Step 200
+Process 16: Step 300
+Process 16: Step 400
+Process 16: Step 500
+Process 16: Step 600
+Process 16: Step 700
+Process 16: Step 800
+Process 16: Step 900
+Process 16: Step 1000
+Process 16: Chain finished.
+Process 16: Results saved to output/run_17.csv
+Process 16: Statistics saved to output/stats_17.csv
+Process 16: Done.
+[INFO] Process 18/20 starting run #18
+Process 17: Starting MCMC process...
+Process 17: Generating a new Starting Partition...
+Process 17: New initial partition created.
+Process 17: Creating MarkovChain...
+Process 17: Running Chain 18...
+Process 17: Step 100
+Process 17: Step 200
+Process 17: Step 300
+Process 17: Step 400
+Process 17: Step 500
+Process 17: Step 600
+Process 17: Step 700
+Process 17: Step 800
+Process 17: Step 900
+Process 17: Step 1000
+Process 17: Chain finished.
+Process 17: Results saved to output/run_18.csv
+Process 17: Statistics saved to output/stats_18.csv
+Process 17: Done.
+[INFO] Process 19/20 starting run #19
+Process 18: Starting MCMC process...
+Process 18: Generating a new Starting Partition...
+Process 18: New initial partition created.
+Process 18: Creating MarkovChain...
+Process 18: Running Chain 19...
+Process 18: Step 100
+Process 18: Step 200
+Process 18: Step 300
+Process 18: Step 400
+Process 18: Step 500
+Process 18: Step 600
+Process 18: Step 700
+Process 18: Step 800
+Process 18: Step 900
+Process 18: Step 1000
+Process 18: Chain finished.
+Process 18: Results saved to output/run_19.csv
+Process 18: Statistics saved to output/stats_19.csv
+Process 18: Done.
+[INFO] Process 20/20 starting run #20
+Process 19: Starting MCMC process...
+Process 19: Generating a new Starting Partition...
+Process 19: New initial partition created.
+Process 19: Creating MarkovChain...
+Process 19: Running Chain 20...
+Process 19: Step 100
+Process 19: Step 200
+Process 19: Step 300
+Process 19: Step 400
+Process 19: Step 500
+Process 19: Step 600
+Process 19: Step 700
+Process 19: Step 800
+Process 19: Step 900
+Process 19: Step 1000
+Process 19: Chain finished.
+Process 19: Results saved to output/run_20.csv
+Process 19: Statistics saved to output/stats_20.csv
+Process 19: Done.
+Starting batch 5
+[INFO] Process 1/20 starting run #1
+Process 0: Starting MCMC process...
+Initial population per school:
+{'609730.0': 146343.0, '609738.0': 125909.0, '609734.0': 152595.0, '609724.0': 40646.0, '609704.0': 71901.0, '609719.0': 114853.0, '609740.0': 167112.0, '609723.0': 58176.0, '609727.0': 134890.0, '610587.0': 25896.0, '609705.0': 88248.0, '610384.0': 33096.0, '609735.0': 55467.0, '609764.0': 32301.0, '609715.0': 97044.0, '610323.0': 47672.0, '609709.0': 59414.0, '609710.0': 69393.0, '609682.0': 27829.0, '609716.0': 36630.0, '609722.0': 63001.0, '609746.0': 42825.0, '610592.0': 35506.0, '609759.0': 71375.0, '609695.0': 67804.0, '609713.0': 32403.0, '609733.0': 72300.0, '609739.0': 42037.0, '609674.0': 55612.0, '610518.0': 51340.0, '609708.0': 77057.0, '609729.0': 98776.0, '610389.0': 48138.0, '609732.0': 142522.0, '609725.0': 91190.0, '609762.0': 16635.0, '610543.0': 9770.0, '609741.0': 55189.0, '609718.0': 57635.0, '609698.0': 107161.0, '609712.0': 55699.0, '609761.0': 30282.0, '609728.0': 48678.0, '609691.0': 22038.0, '609756.0': 12663.0}
+Ideal population: 66512, Tolerance: +/- 40.0%
+Process 0: Generating a new Starting Partition...
+Process 0: New initial partition created.
+Process 0: Creating MarkovChain...
+Process 0: Running Chain 1...
+Process 0: Step 100
+Process 0: Step 200
+Process 0: Step 300
+Process 0: Step 400
+Process 0: Step 500
+Process 0: Step 600
+Process 0: Step 700
+Process 0: Step 800
+Process 0: Step 900
+Process 0: Step 1000
+Process 0: Chain finished.
+Process 0: Results saved to output/run_1.csv
+Process 0: Statistics saved to output/stats_1.csv
+Process 0: Done.
+All processes completed!
+Results are in the output/ directory
+Plots are in the results/ directory
+[INFO] Process 2/20 starting run #2
+Process 1: Starting MCMC process...
+Process 1: Generating a new Starting Partition...
+Process 1: New initial partition created.
+Process 1: Creating MarkovChain...
+Process 1: Running Chain 2...
+Process 1: Step 100
+Process 1: Step 200
+Process 1: Step 300
+Process 1: Step 400
+Process 1: Step 500
+Process 1: Step 600
+Process 1: Step 700
+Process 1: Step 800
+Process 1: Step 900
+Process 1: Step 1000
+Process 1: Chain finished.
+Process 1: Results saved to output/run_2.csv
+Process 1: Statistics saved to output/stats_2.csv
+Process 1: Done.
+[INFO] Process 3/20 starting run #3
+Process 2: Starting MCMC process...
+Process 2: Generating a new Starting Partition...
+Process 2: New initial partition created.
+Process 2: Creating MarkovChain...
+Process 2: Running Chain 3...
+Process 2: Step 100
+Process 2: Step 200
+Process 2: Step 300
+Process 2: Step 400
+Process 2: Step 500
+Process 2: Step 600
+Process 2: Step 700
+Process 2: Step 800
+Process 2: Step 900
+Process 2: Step 1000
+Process 2: Chain finished.
+Process 2: Results saved to output/run_3.csv
+Process 2: Statistics saved to output/stats_3.csv
+Process 2: Done.
+[INFO] Process 4/20 starting run #4
+Process 3: Starting MCMC process...
+Process 3: Generating a new Starting Partition...
+Process 3: New initial partition created.
+Process 3: Creating MarkovChain...
+Process 3: Running Chain 4...
+Process 3: Step 100
+Process 3: Step 200
+Process 3: Step 300
+Process 3: Step 400
+Process 3: Step 500
+Process 3: Step 600
+Process 3: Step 700
+Process 3: Step 800
+Process 3: Step 900
+Process 3: Step 1000
+Process 3: Chain finished.
+Process 3: Results saved to output/run_4.csv
+Process 3: Statistics saved to output/stats_4.csv
+Process 3: Done.
+[INFO] Process 5/20 starting run #5
+Process 4: Starting MCMC process...
+Process 4: Generating a new Starting Partition...
+Process 4: New initial partition created.
+Process 4: Creating MarkovChain...
+Process 4: Running Chain 5...
+Process 4: Step 100
+Process 4: Step 200
+Process 4: Step 300
+Process 4: Step 400
+Process 4: Step 500
+Process 4: Step 600
+Process 4: Step 700
+Process 4: Step 800
+Process 4: Step 900
+Process 4: Step 1000
+Process 4: Chain finished.
+Process 4: Results saved to output/run_5.csv
+Process 4: Statistics saved to output/stats_5.csv
+Process 4: Done.
+[INFO] Process 6/20 starting run #6
+Process 5: Starting MCMC process...
+Process 5: Generating a new Starting Partition...
+Process 5: New initial partition created.
+Process 5: Creating MarkovChain...
+Process 5: Running Chain 6...
+Process 5: Step 100
+Process 5: Step 200
+Process 5: Step 300
+Process 5: Step 400
+Process 5: Step 500
+Process 5: Step 600
+Process 5: Step 700
+Process 5: Step 800
+Process 5: Step 900
+Process 5: Step 1000
+Process 5: Chain finished.
+Process 5: Results saved to output/run_6.csv
+Process 5: Statistics saved to output/stats_6.csv
+Process 5: Done.
+[INFO] Process 7/20 starting run #7
+Process 6: Starting MCMC process...
+Process 6: Generating a new Starting Partition...
+Process 6: New initial partition created.
+Process 6: Creating MarkovChain...
+Process 6: Running Chain 7...
+Process 6: Step 100
+Process 6: Step 200
+Process 6: Step 300
+Process 6: Step 400
+Process 6: Step 500
+Process 6: Step 600
+Process 6: Step 700
+Process 6: Step 800
+Process 6: Step 900
+Process 6: Step 1000
+Process 6: Chain finished.
+Process 6: Results saved to output/run_7.csv
+Process 6: Statistics saved to output/stats_7.csv
+Process 6: Done.
+[INFO] Process 8/20 starting run #8
+Process 7: Starting MCMC process...
+Process 7: Generating a new Starting Partition...
+Process 7: New initial partition created.
+Process 7: Creating MarkovChain...
+Process 7: Running Chain 8...
+Process 7: Step 100
+Process 7: Step 200
+Process 7: Step 300
+Process 7: Step 400
+Process 7: Step 500
+Process 7: Step 600
+Process 7: Step 700
+Process 7: Step 800
+Process 7: Step 900
+Process 7: Step 1000
+Process 7: Chain finished.
+Process 7: Results saved to output/run_8.csv
+Process 7: Statistics saved to output/stats_8.csv
+Process 7: Done.
+[INFO] Process 9/20 starting run #9
+Process 8: Starting MCMC process...
+Process 8: Generating a new Starting Partition...
+Process 8: New initial partition created.
+Process 8: Creating MarkovChain...
+Process 8: Running Chain 9...
+Process 8: Step 100
+Process 8: Step 200
+Process 8: Step 300
+Process 8: Step 400
+Process 8: Step 500
+Process 8: Step 600
+Process 8: Step 700
+Process 8: Step 800
+Process 8: Step 900
+Process 8: Step 1000
+Process 8: Chain finished.
+Process 8: Results saved to output/run_9.csv
+Process 8: Statistics saved to output/stats_9.csv
+Process 8: Done.
+[INFO] Process 10/20 starting run #10
+Process 9: Starting MCMC process...
+Process 9: Generating a new Starting Partition...
+Process 9: New initial partition created.
+Process 9: Creating MarkovChain...
+Process 9: Running Chain 10...
+Process 9: Step 100
+Process 9: Step 200
+Process 9: Step 300
+Process 9: Step 400
+Process 9: Step 500
+Process 9: Step 600
+Process 9: Step 700
+Process 9: Step 800
+Process 9: Step 900
+Process 9: Step 1000
+Process 9: Chain finished.
+Process 9: Results saved to output/run_10.csv
+Process 9: Statistics saved to output/stats_10.csv
+Process 9: Done.
+[INFO] Process 11/20 starting run #11
+Process 10: Starting MCMC process...
+Process 10: Generating a new Starting Partition...
+Process 10: New initial partition created.
+Process 10: Creating MarkovChain...
+Process 10: Running Chain 11...
+Process 10: Step 100
+Process 10: Step 200
+Process 10: Step 300
+Process 10: Step 400
+Process 10: Step 500
+Process 10: Step 600
+Process 10: Step 700
+Process 10: Step 800
+Process 10: Step 900
+Process 10: Step 1000
+Process 10: Chain finished.
+Process 10: Results saved to output/run_11.csv
+Process 10: Statistics saved to output/stats_11.csv
+Process 10: Done.
+[INFO] Process 12/20 starting run #12
+Process 11: Starting MCMC process...
+Process 11: Generating a new Starting Partition...
+Process 11: New initial partition created.
+Process 11: Creating MarkovChain...
+Process 11: Running Chain 12...
+Process 11: Step 100
+Process 11: Step 200
+Process 11: Step 300
+Process 11: Step 400
+Process 11: Step 500
+Process 11: Step 600
+Process 11: Step 700
+Process 11: Step 800
+Process 11: Step 900
+Process 11: Step 1000
+Process 11: Chain finished.
+Process 11: Results saved to output/run_12.csv
+Process 11: Statistics saved to output/stats_12.csv
+Process 11: Done.
+[INFO] Process 17/20 starting run #17
+Process 16: Starting MCMC process...
+Process 16: Generating a new Starting Partition...
+Process 16: New initial partition created.
+Process 16: Creating MarkovChain...
+Process 16: Running Chain 17...
+Process 16: Step 100
+Process 16: Step 200
+Process 16: Step 300
+Process 16: Step 400
+Process 16: Step 500
+Process 16: Step 600
+Process 16: Step 700
+Process 16: Step 800
+Process 16: Step 900
+Process 16: Step 1000
+Process 16: Chain finished.
+Process 16: Results saved to output/run_17.csv
+Process 16: Statistics saved to output/stats_17.csv
+Process 16: Done.
+[INFO] Process 18/20 starting run #18
+Process 17: Starting MCMC process...
+Process 17: Generating a new Starting Partition...
+Process 17: New initial partition created.
+Process 17: Creating MarkovChain...
+Process 17: Running Chain 18...
+Process 17: Step 100
+Process 17: Step 200
+Process 17: Step 300
+Process 17: Step 400
+Process 17: Step 500
+Process 17: Step 600
+Process 17: Step 700
+Process 17: Step 800
+Process 17: Step 900
+Process 17: Step 1000
+Process 17: Chain finished.
+Process 17: Results saved to output/run_18.csv
+Process 17: Statistics saved to output/stats_18.csv
+Process 17: Done.
+[INFO] Process 19/20 starting run #19
+Process 18: Starting MCMC process...
+Process 18: Generating a new Starting Partition...
+Process 18: New initial partition created.
+Process 18: Creating MarkovChain...
+Process 18: Running Chain 19...
+Process 18: Step 100
+Process 18: Step 200
+Process 18: Step 300
+Process 18: Step 400
+Process 18: Step 500
+Process 18: Step 600
+Process 18: Step 700
+Process 18: Step 800
+Process 18: Step 900
+Process 18: Step 1000
+Process 18: Chain finished.
+Process 18: Results saved to output/run_19.csv
+Process 18: Statistics saved to output/stats_19.csv
+Process 18: Done.
+[INFO] Process 20/20 starting run #20
+Process 19: Starting MCMC process...
+Process 19: Generating a new Starting Partition...
+Process 19: New initial partition created.
+Process 19: Creating MarkovChain...
+Process 19: Running Chain 20...
+Process 19: Step 100
+Process 19: Step 200
+Process 19: Step 300
+Process 19: Step 400
+Process 19: Step 500
+Process 19: Step 600
+Process 19: Step 700
+Process 19: Step 800
+Process 19: Step 900
+Process 19: Step 1000
+Process 19: Chain finished.
+Process 19: Results saved to output/run_20.csv
+Process 19: Statistics saved to output/stats_20.csv
+Process 19: Done.
+[INFO] Process 13/20 starting run #13
+Process 12: Starting MCMC process...
+Process 12: Generating a new Starting Partition...
+Process 12: New initial partition created.
+Process 12: Creating MarkovChain...
+Process 12: Running Chain 13...
+Process 12: Step 100
+Process 12: Step 200
+Process 12: Step 300
+Process 12: Step 400
+Process 12: Step 500
+Process 12: Step 600
+Process 12: Step 700
+Process 12: Step 800
+Process 12: Step 900
+Process 12: Step 1000
+Process 12: Chain finished.
+Process 12: Results saved to output/run_13.csv
+Process 12: Statistics saved to output/stats_13.csv
+Process 12: Done.
+[INFO] Process 14/20 starting run #14
+Process 13: Starting MCMC process...
+Process 13: Generating a new Starting Partition...
+Process 13: New initial partition created.
+Process 13: Creating MarkovChain...
+Process 13: Running Chain 14...
+Process 13: Step 100
+Process 13: Step 200
+Process 13: Step 300
+Process 13: Step 400
+Process 13: Step 500
+Process 13: Step 600
+Process 13: Step 700
+Process 13: Step 800
+Process 13: Step 900
+Process 13: Step 1000
+Process 13: Chain finished.
+Process 13: Results saved to output/run_14.csv
+Process 13: Statistics saved to output/stats_14.csv
+Process 13: Done.
+[INFO] Process 15/20 starting run #15
+Process 14: Starting MCMC process...
+Process 14: Generating a new Starting Partition...
+Process 14: New initial partition created.
+Process 14: Creating MarkovChain...
+Process 14: Running Chain 15...
+Process 14: Step 100
+Process 14: Step 200
+Process 14: Step 300
+Process 14: Step 400
+Process 14: Step 500
+Process 14: Step 600
+Process 14: Step 700
+Process 14: Step 800
+Process 14: Step 900
+Process 14: Step 1000
+Process 14: Chain finished.
+Process 14: Results saved to output/run_15.csv
+Process 14: Statistics saved to output/stats_15.csv
+Process 14: Done.
+[INFO] Process 16/20 starting run #16
+Process 15: Starting MCMC process...
+Process 15: Generating a new Starting Partition...
+Process 15: New initial partition created.
+Process 15: Creating MarkovChain...
+Process 15: Running Chain 16...
+Process 15: Step 100
+Process 15: Step 200
+Process 15: Step 300
+Process 15: Step 400
+Process 15: Step 500
+Process 15: Step 600
+Process 15: Step 700
+Process 15: Step 800
+Process 15: Step 900
+Process 15: Step 1000
+Process 15: Chain finished.
+Process 15: Results saved to output/run_16.csv
+Process 15: Statistics saved to output/stats_16.csv
+Process 15: Done.
+All batches completed.

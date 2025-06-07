@@ -1,0 +1,39 @@
+FROM python:3.11-slim
+
+# Install system dependencies for geospatial libraries
+RUN apt-get update && apt-get install -y \
+    gcc \
+    g++ \
+    libgdal-dev \
+    libgeos-dev \
+    libproj-dev \
+    gdal-bin \
+    python3-gdal \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set GDAL environment variables
+ENV CPLUS_INCLUDE_PATH=/usr/include/gdal
+ENV C_INCLUDE_PATH=/usr/include/gdal
+ENV GDAL_DATA=/usr/share/gdal
+
+# Upgrade pip
+RUN pip install --upgrade pip
+
+# Copy and install requirements
+COPY ../requirements.txt /tmp/
+RUN pip install -r /tmp/requirements.txt
+
+# Set work directory
+WORKDIR /app
+
+# Copy your application
+COPY . /app
+
+# Create results directory
+RUN mkdir -p results
+
+# Set environment variables
+ENV PYTHONUNBUFFERED=1
+
+CMD ["python", "main.py"]
